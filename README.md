@@ -1,4 +1,4 @@
-# hablaqui-prototype
+# hablaqui-Q&A
 Health Questions and Answers Platform (2020)
 
 **Description:**
