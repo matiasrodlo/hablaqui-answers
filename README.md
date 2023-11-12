@@ -1,5 +1,5 @@
 # hablaqui-prototype
-Health Questions and Answers Platform (2019)
+Health Questions and Answers Platform (2020)
 
 **Description:**
 <br>
