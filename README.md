@@ -1,5 +1,4 @@
-# hablaqui-Q&A
-Health Questions and Answers Platform (2020)
+# Health Questions and Answers Platform (2020)
 
 ## Description
 Hablaqui-Q&A is a dynamic platform designed for health-related questions and answers. Users have the ability to confidentially consult healthcare professionals on a wide range of topics.
