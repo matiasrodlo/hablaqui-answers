@@ -1,6 +1,5 @@
 # Health Questions and Answers Platform (2020)
 
-## Description
 Hablaqui-Q&A is a dynamic platform designed for health-related questions and answers. Users have the ability to confidentially consult healthcare professionals on a wide range of topics.
 
 This project was developed during my fourth semester of Commercial Engineering, while simultaneously participating in Startup School, a graduation pathway focused on entrepreneurship and innovation at the School of Engineering at the Adolfo Ibáñez University.
